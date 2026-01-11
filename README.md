@@ -160,6 +160,7 @@ Input: 5, Predicted: 24.9999999995242, Correct: 25
 # **Discussion**
 If you reached till here, then I would like to thank you for your interests in this humble beginner project.
 
-As you can see, the ended up with $$W \approx 4 $$ $$B \approx 5$$
+As you can see, the ended up with $$W \approx 4 $$ 
+$$B \approx 5$$
 Which is very close to what the real equation was
 $$f(x) = 4x + 5 $$
